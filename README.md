@@ -87,3 +87,7 @@ Both approaches can produce a working application, but they optimize for differe
 The **Vibe Coding approach** is stronger for speed and rapid prototyping, while the **AI Pair Programming approach** provides greater control, explainability, and editability.
 
 For a quick prototype, I would choose **Lovable**. For a project that I expect to maintain and modify, I would choose **Cursor**.
+
+## Submission
+
+This repository contains both the Vibe Coding and AI Pair Programming implementations of the Task Manager application.
